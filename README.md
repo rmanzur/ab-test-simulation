@@ -2,7 +2,7 @@
 
 Simulating A/B tests for a given baseline conversion rate (control conversion rate = 0.15), significance level (alpha = 0.05), and split ratio (50/50). 
 
-H_0: difference in means = 0, H_A: difference in means ≠ 0 (two-sample, two-tailed Z test)
+H_0: difference in means = 0, H_A: difference in means ≠ 0 (two-sample, two-tailed Z test (note: in most settings, one-tailed test is the recommended approach, but two-tailed test is used here for illustrative purposes)
 
 Results summarized below:
 
